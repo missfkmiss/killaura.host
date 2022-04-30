@@ -1,0 +1,38 @@
+﻿  config.cpp
+  Autowall.cpp
+  LagCompensation.cpp
+  legitbot.cpp
+  Menu.cpp
+  predictionsystem.cpp
+  ragebot.cpp
+  misc.cpp
+  Visuals.cpp
+  input.cpp
+  math.cpp
+  Utilities.cpp
+  vfunc_hook.cpp
+  hooks.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  main.cpp
+  options.cpp
+  structs.cpp
+  IEngineTrace.cpp
+  sdk.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  characterset.cpp
+  checksum_crc.cpp
+  checksum_md5.cpp
+  Color.cpp
+  Convar.cpp
+  UtlBuffer.cpp
+  UtlString.cpp
+  netvars.cpp
+  resolver.cpp
+  Generating code
+  Finished generating code
+  killaura.host.vcxproj -> C:\Users\miss\Desktop\killaura.host-master original\killaura.host-master\Release\killaura.host.dll
